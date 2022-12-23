@@ -10,7 +10,7 @@ ZLIB_LIBDIR=
 
 # The directory containing the Zlib header file (zlib.h)
 # Leave empty if zlib.h is in a standard compiler directory
-ZLIB_INCLUDE=
+ZLIB_INCLUDE=/usr/include
 # ZLIB_INCLUDE=/usr/local/include
 
 ### End of configuration section
